@@ -12,7 +12,7 @@ Hello World of Spring!
 
 <br><br>
 
-Strudent name: ${param.studentName}
+Student name: ${param.studentName}
 
 </body>
 </html>
